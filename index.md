@@ -2,30 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Projects I'm working on recently
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Kakainet, ImageToLatex](https://github.com/kakainet/ImageToLatex)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projects for learning purposes
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[OCaml-Structures](https://github.com/kubachrabanski/OCaml-Structures)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### Projects at the university
+
+ [OOP-Indexer_Seacher](https://github.com/kubachrabanski/OOP-Indexer_Seacher)
+
+---
+
 
 
 
