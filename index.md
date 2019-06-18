@@ -1,31 +1,40 @@
-## Portfolio
+## Projects
 
 ---
 
-### Projects I'm working on recently
+### Recent
 
-[Kakainet, ImageToLatex](https://github.com/kakainet/ImageToLatex)
+-[Kakainet, ImageToLatex](https://github.com/kakainet/ImageToLatex)
+<!---
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+--->
 
 ---
 
-### Projects for learning purposes
+### At the university
 
-[OCaml-Structures](https://github.com/kubachrabanski/OCaml-Structures)
+-[OOP-Indexer_Seacher](https://github.com/kubachrabanski/OOP-Indexer_Seacher)
+<!---
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+--->
 
 ---
 
-### Projects at the university
+### For learning
 
- [OOP-Indexer_Seacher](https://github.com/kubachrabanski/OOP-Indexer_Seacher)
+-[OCaml-Structures](https://github.com/kubachrabanski/OCaml-Structures)
+```mllike
+
+(* example use of Avl module from Structures package *)
+
+open Avl
+
+type ('k, 'v) t = ('k * 'v) Avl.t
+
+let find ?compare k t = Avl.find ?compare ~key:fst ~value:snd k t
+
+(* Avl is restructured into a polimorphic map *)
+
+```
 
 ---
-
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
