@@ -1,14 +1,13 @@
 title: Kuba Chrabański
-logo: "/images/logo.png?raw=true"
+logo: "/images/photo.png?raw=true"
 description: >
   I'm a student in <b>Computer Science</b> at the Faculty of Mathematics,
   Informatics and Mechanics, <b>University of Warsaw</b>  
   <br><br>
   Currently expanding my knowledge in the field of AI,
   while working on a <a href="https://github.com/kakainet">Kakainet</a> group project ImageToLatex.
+  <b>j.chrabanski@student.uw.edu.pl</b>
   <br><br>
-
-#<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0
