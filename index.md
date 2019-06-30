@@ -10,7 +10,7 @@
     
     __\frac{378 \mathbin{/} 493 \cdot \left(-277\right)}{\left(-275\right) \mathbin{/} 46 - 332}__
 
-    <img src="images/1.png?raw=true"/>
+    <img src="https://github.com/kubachrabanski/kubachrabanski.github.io/blob/master/images/1.png?raw=true"/>
 
 ---
 
@@ -18,7 +18,7 @@
 
 - [indexer_searcher](https://github.com/kubachrabanski/indexer_searcher)
 
-    <img src="images/2.png?raw=true"/>
+    <img src="https://github.com/kubachrabanski/kubachrabanski.github.io/blob/master/images/2.png?raw=true"/>
 
 ---
 
