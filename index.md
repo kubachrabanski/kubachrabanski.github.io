@@ -44,7 +44,6 @@
     here is an example result of __[16 x 16]__ sudoku solving:
     
     ```
-    $ dune exec bin/run.exe < ...
     7  13 1  15 3  12 11 10 5  4  8  9  6  2  14 16 
     9  12 11 10 2  8  13 5  14 16 6  3  1  4  15 7  
     6  14 16 5  9  4  1  15 7  13 2  12 8  3  11 10 
