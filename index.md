@@ -4,7 +4,7 @@
 
 ### Recent
 
-- [Kakainet, ImageToLatex](https://github.com/kakainet/ImageToLatex)  __[python, ocaml (core), dune]__   
+- [Kakainet, ImageToLatex](https://github.com/kakainet/ImageToLatex)  __[python, ocaml, core, dune]__   
 
     __[01/07/2019]__ _currently working on random latex expression generators, with various syntactic levels and conspects           describing exact behaviour within the level, here is an example of L1:1 (2, 5, 512, 50.0) latex expression:_
     
@@ -38,7 +38,7 @@
     
 ---
 
-- [sudoku_backtrack](https://github.com/kubachrabanski/sudoku_backtrack) __[ocaml (core), dune]__
+- [sudoku_backtrack](https://github.com/kubachrabanski/sudoku_backtrack) __[ocaml, core, dune]__
 
     a heuristic based, backtracking sudoku solver, supporting __any__ subgrid-divisible puzzle,  
     here is an example result of __[16 x 16]__ sudoku solving:
