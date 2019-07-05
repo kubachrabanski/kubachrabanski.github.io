@@ -62,24 +62,3 @@
     14 10 7  13 16 3  5  8  12 1  15 4  11 6  9  2  
     ```
     
-
----
-### For learning purposes
-
-- [OCaml-AVL](https://github.com/kubachrabanski/OCaml-AVL)
-
-```ocaml
-
-(* example use of Avl module *)
-
-open Avl
-
-type ('k, 'v) t = ('k * 'v) Avl.t
-
-let find ?compare k t = Avl.find ?compare ~key:fst ~value:snd k t
-
-(* Avl is restructured into a polimorphic map *)
-
-```
-
----
